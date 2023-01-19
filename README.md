@@ -2,6 +2,15 @@
 ## Projeto Individual - Módulo 4 Sistema Resília
 Projeto Baseado em Modelagem de Banco de Dados contendo Entidades e Atributos.
 
+## Modelo conceitual 
+
+![Modelo_Conceitual](https://user-images.githubusercontent.com/112868695/213471566-d199f2ad-b721-4728-862f-357cbfe632c3.png)
+
+## Modelo lógico
+
+![modelo_Logico (2)](https://user-images.githubusercontent.com/112868695/213471613-e24b3050-8ba3-4e16-bfa3-b7ecf2e136de.png)
+
+
 - Existem outras entidades além das exigidas ?
 
 
